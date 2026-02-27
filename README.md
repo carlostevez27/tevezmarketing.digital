@@ -14,5 +14,10 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 2. **Implementación y Automatización:** Despliegue técnico en GitHub, Cloudflare y optimización de infraestructura.
 3. **Closer de Ventas Estratégico:** Maximización del retorno de inversión (ROI) mediante técnicas de cierre profesional.
 
+## 📁 Explora mis Servicios Core
+- [Pilar 1: Estrategia Full Stack](./servicios/estrategia.md)
+- [Pilar 2: Implementacion y Automatizacion](./servicios/implementacion.md)
+- [Pilar 3: Closer de Ventas Estrategico](./servicios/closer.md)
+
 ---
 > *Utilizando el módulo inteligente **Tevia** para potenciar la creatividad y la agilidad en cada proyecto.* 🇨🇴
