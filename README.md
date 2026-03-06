@@ -1,8 +1,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/tevia-ai_module-00ffff?style=for-the-badge&logo=probot&logoColor=black" />
-  <img src="https://img.shields.io/badge/status-active_variable_tía_tres-B19CD9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-system_operational-B19CD9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/location-ibagué_tol-77DD77?style=for-the-badge" />
 </p>
+
 
 # 🚀 Carlos Tevez | Full Stack Marketer
 Especialista en el despliegue de ecosistemas digitales de alto rendimiento y estrategias de conversión masiva.
