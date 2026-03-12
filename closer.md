@@ -1,4 +1,4 @@
-# 🤝 pilar 3: ingeniería de conversión
+# 🤝 pilar 3: ingieniería de conversión
 ## capitalización de ecosistemas y optimización de roi
 
 este pilar transforma la data y el tráfico en liquidez mediante protocolos de cierre técnicos.
