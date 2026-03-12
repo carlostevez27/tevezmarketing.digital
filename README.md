@@ -31,7 +31,7 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 1. **Arquitectura de Estrategia Full Stack:** Diseño de embudos y ecosistemas de marketing 360°.
 2. **Implementación y Automatización:** Despliegue técnico en GitHub, Cloudflare y optimización de infraestructura.
 3. **Closer de Ventas Estratégico:** Maximización del retorno de inversión (ROI) mediante técnicas de cierre profesional.
-4. **Ingeniería de IA y Automatización:** Orquestación de agentes inteligentes y procesos autónomos para escala masiva.
+4. **Ingieniería de IA y Automatización:** Orquestación de agentes inteligentes y procesos autónomos para escala masiva.
 
 ---
 
